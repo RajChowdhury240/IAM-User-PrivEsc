@@ -31,8 +31,6 @@
 │ • Full administrator access achieved                        │
 │ • Can access all AWS services                               │
 │ • Can create backdoors, exfiltrate data, destroy resources  │
-└─────────────────────────────────────────────────────────────┘
-
 <img width="3360" height="1280" alt="image" src="https://github.com/user-attachments/assets/dfa05f5c-e94d-4114-aba4-c25edfd13bae" />
 
 <img width="2780" height="1170" alt="image" src="https://github.com/user-attachments/assets/2c37e03c-3ef8-4e04-9bbe-76c9a7680930" />
