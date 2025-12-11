@@ -11,7 +11,7 @@
                           │
                           ▼
 ┌─────────────────────────────────────────────────────────────┐
-│ Step 2: Discover/Create Role with Wildcard Trust           │
+│ Step 2: Discover/Create Role with Wildcard Trust            │
 │ • Role: "compromised-cie-engineer"                          │
 │ • Trust Policy: {"AWS": "*"}                                │
 │ • Attached Policy: AdministratorAccess                      │
